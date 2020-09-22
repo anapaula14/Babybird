@@ -2184,6 +2184,20 @@ a {
   padding-bottom: 5rem;
   background-color: #ffffff;
 }
+.cid-sbkDlu3v81 {
+  background-color: #ffffff;
+}
+@media (max-width: 991px) {
+  .cid-sbkDlu3v81 .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-sbkDlu3v81 .row {
+  flex-direction: row-reverse;
+}
+.cid-sbkDlu3v81 img {
+  width: 100%;
+}
 .cid-saislUVbBD {
   padding-top: 2rem;
   padding-bottom: 2rem;
