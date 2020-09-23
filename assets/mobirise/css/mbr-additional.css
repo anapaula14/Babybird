@@ -4685,6 +4685,51 @@ a {
     padding-right: 4rem;
   }
 }
+.cid-sbqFhkodQ8 {
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+  background-color: #fafafa;
+}
+.cid-sbqFhkodQ8 .card-wrapper {
+  padding: 4rem;
+  background-color: #ffffff;
+  border-radius: 4px;
+}
+.cid-sbqFhkodQ8 .row {
+  align-items: flex-start;
+}
+@media (max-width: 992px) {
+  .cid-sbqFhkodQ8 .card {
+    margin-bottom: 2rem !important;
+  }
+}
+@media (max-width: 767px) {
+  .cid-sbqFhkodQ8 .card-wrapper {
+    padding: 1rem;
+  }
+}
+.cid-sbqFhkodQ8 ul {
+  list-style: none;
+}
+.cid-sbqFhkodQ8 li {
+  position: relative;
+}
+.cid-sbqFhkodQ8 li:before {
+  position: absolute;
+  left: -30px;
+  top: 50%;
+  transform: translateY(-50%);
+  content: "\e908";
+  font-family: 'Moririse2' !important;
+  color: #40b0bf;
+  font-size: 0.8rem;
+}
+.cid-sbqFhkodQ8 .mbr-section-btn {
+  width: 100%;
+}
+.cid-sbqFhkodQ8 .btn {
+  width: 100%;
+}
 .cid-s48P1Icc8J {
   padding-top: 2rem;
   padding-bottom: 2rem;
