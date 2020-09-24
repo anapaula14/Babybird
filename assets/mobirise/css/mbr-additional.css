@@ -3117,6 +3117,20 @@ a {
     padding: 2rem;
   }
 }
+.cid-sbtkDuZJAS {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-image: url("../../../assets/images/pexels-miguel-padrin-3936358-2000x1330.jpg");
+}
+.cid-sbtkDuZJAS .mbr-section-title {
+  color: #ffffff;
+  text-align: left;
+}
+.cid-sbtkzlfWfF {
+  padding-top: 1rem;
+  padding-bottom: 3rem;
+  background-color: #ffffff;
+}
 .cid-saCenZjgZv {
   padding-top: 0rem;
   padding-bottom: 0rem;
@@ -4454,7 +4468,7 @@ a {
 }
 .cid-sbsdpOEmNK {
   padding-top: 6rem;
-  padding-bottom: 6rem;
+  padding-bottom: 0rem;
   background-color: #e3f1f2;
 }
 .cid-sbsdpOEmNK .card-wrapper {
@@ -4486,8 +4500,23 @@ a {
   text-align: center;
   color: #2ee0fa;
 }
+.cid-sbtiY31ALz {
+  padding-top: 0rem;
+  padding-bottom: 0rem;
+  background-color: #e3f1f2;
+}
+.cid-sbtiY31ALz .line {
+  background-color: #6592e6;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-sbtiY31ALz .mbr-text {
+  text-align: left;
+  color: #abc6ca;
+}
 .cid-sbsZmaA3cB {
-  padding-top: 6rem;
+  padding-top: 1rem;
   padding-bottom: 0rem;
   background-color: #e3f1f2;
 }
@@ -4518,8 +4547,31 @@ a {
 .cid-sbt0XjSjX6 img {
   width: 100%;
 }
+.cid-sbtmD4Vh1B {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #e3f1f2;
+}
+.cid-sbtmD4Vh1B ul {
+  list-style: none;
+  margin: 0;
+  padding-left: 1.6rem;
+}
+.cid-sbtmD4Vh1B li {
+  position: relative;
+  margin-bottom: 1rem;
+}
+.cid-sbtmD4Vh1B ul li::before {
+  position: absolute;
+  left: -1.6rem;
+  content: "\2022";
+  color: #40b0bf;
+  font-weight: bold;
+  font-size: 2rem;
+  width: 1.6rem;
+}
 .cid-sbslZpeMtw {
-  padding-top: 6rem;
+  padding-top: 0rem;
   padding-bottom: 6rem;
   background-color: #e3f1f2;
 }
@@ -4553,6 +4605,11 @@ a {
 }
 .cid-sbslZpeMtw .price {
   color: #2ee0fa;
+}
+.cid-sbtn0rdFtj {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
 }
 .cid-s48P1Icc8J {
   padding-top: 2rem;
