@@ -2142,6 +2142,38 @@ a {
 .cid-sc5VnBeiw5 img {
   width: 100%;
 }
+.cid-scVKjvwDDQ {
+  padding-top: 0rem;
+  padding-bottom: 0rem;
+  background-color: #4479d9;
+}
+.cid-scVKjvwDDQ .mbr-section-subtitle {
+  text-align: left;
+}
+.cid-scVKvlML9O {
+  padding-top: 2rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+@media (max-width: 991px) {
+  .cid-scVKvlML9O .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-scVKvlML9O .row {
+  flex-direction: row-reverse;
+}
+.cid-scVKvlML9O img {
+  width: 100%;
+}
+.cid-scVKsgXRvg {
+  padding-top: 0rem;
+  padding-bottom: 0rem;
+  background-color: #ffcf00;
+}
+.cid-scVKsgXRvg .mbr-section-subtitle {
+  text-align: left;
+}
 .cid-saislUVbBD {
   padding-top: 2rem;
   padding-bottom: 2rem;
