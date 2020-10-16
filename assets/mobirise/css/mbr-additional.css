@@ -8720,9 +8720,12 @@ a {
 .cid-sduVKOMQZ3 .mbr-text {
   text-align: center;
 }
-.cid-sdAYPExeH5 .icon-wrapper {
+.cid-sdB0zy1TgR {
+  background-color: #bed3f9;
+}
+.cid-sdB0zy1TgR .icon-wrapper {
   margin: auto;
-  background-color: #e3f1f2;
+  background-color: #6592e6;
   color: #fafafa;
   border-radius: 50%;
   font-size: 48px;
@@ -8734,10 +8737,10 @@ a {
   justify-content: center;
   align-items: center;
 }
-.cid-sdAYPExeH5 .icon-wrapper span {
+.cid-sdB0zy1TgR .icon-wrapper span {
   margin-left: 10px;
 }
-.cid-sdAYPExeH5 .modalWindow {
+.cid-sdB0zy1TgR .modalWindow {
   position: fixed;
   z-index: 5000;
   left: 0;
@@ -8746,16 +8749,16 @@ a {
   width: 100%;
   height: 100%;
 }
-.cid-sdAYPExeH5 .modalWindow .modalWindow-container {
+.cid-sdB0zy1TgR .modalWindow .modalWindow-container {
   display: table-cell;
   vertical-align: middle;
 }
-.cid-sdAYPExeH5 .modalWindow .modalWindow-video {
+.cid-sdB0zy1TgR .modalWindow .modalWindow-video {
   height: calc(44.9943757vw);
   width: 80vw;
   margin: 0 auto;
 }
-.cid-sdAYPExeH5 .close {
+.cid-sdB0zy1TgR .close {
   position: fixed;
   opacity: 0.5;
   font-size: 22px;
@@ -8774,7 +8777,7 @@ a {
   justify-content: center;
   display: flex;
 }
-.cid-sdAYPExeH5 .close:hover {
+.cid-sdB0zy1TgR .close:hover {
   opacity: 1;
   background: #000;
   color: #fff;
