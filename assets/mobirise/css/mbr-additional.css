@@ -9269,6 +9269,20 @@ a {
 .cid-se6Rnffgx2 .mbr-section-subtitle {
   text-align: left;
 }
+.cid-se72nDERuP {
+  background-color: #ffffff;
+}
+@media (max-width: 991px) {
+  .cid-se72nDERuP .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-se72nDERuP .row {
+  flex-direction: row-reverse;
+}
+.cid-se72nDERuP img {
+  width: 100%;
+}
 .cid-se6RBBGsPm {
   padding-top: 1rem;
   padding-bottom: 0rem;
