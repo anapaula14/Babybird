@@ -8387,6 +8387,22 @@ a {
 .cid-sefNkuCJQ3 img {
   width: 100%;
 }
+.cid-sefWbMZUb6 {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-color: #ffffff;
+}
+@media (max-width: 991px) {
+  .cid-sefWbMZUb6 .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-sefWbMZUb6 .row {
+  flex-direction: row-reverse;
+}
+.cid-sefWbMZUb6 img {
+  width: 100%;
+}
 .cid-se6Rnffgx2 {
   padding-top: 1rem;
   padding-bottom: 0rem;
