@@ -12746,6 +12746,19 @@ padding-bottom: (@paddingBottom * 1rem);
 .cid-shtgjJfi2n img {
   width: 100%;
 }
+.cid-shtkamnP6S {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+.cid-shtkamnP6S .video-wrapper iframe {
+  width: 100%;
+}
+.cid-shtkamnP6S .mbr-section-title,
+.cid-shtkamnP6S .mbr-section-subtitle,
+.cid-shtkamnP6S .mbr-text {
+  text-align: center;
+}
 .cid-s48P1Icc8J {
   padding-top: 2rem;
   padding-bottom: 2rem;
