@@ -9145,7 +9145,7 @@ a.nav-link {
   padding-bottom: (@paddingBottom * 1rem);
 }
 & when (@bg-type = 'image') {
-  background-image: url(../../../@bg-value);
+  background-image: url(../../../../../../@bg-value);
 }
 & when (@bg-type = 'color') {
   background-color: @bg-value;
@@ -9180,7 +9180,7 @@ a.nav-link {
   background-color: @bg-value;
 }
 & when (@bg-type = 'image') {
-  background-image: url(../../../@bg-value);
+  background-image: url(../../../../../../@bg-value);
 }
 .mbr-section-subtitle {
   text-align: left;
@@ -9235,7 +9235,7 @@ background-color: @bgColor;
   background-color: @bg-value;
 }
 & when (@bg-type = 'image') {
-  background-image: url(../../../@bg-value);
+  background-image: url(../../../../../../@bg-value);
 }
 @media (max-width: 991px) {
   .image-wrapper {
@@ -9298,7 +9298,7 @@ background-color: @bgColor;
   background-color: @bg-value;
 }
 & when (@bg-type = 'image') {
-  background-image: url(../../../@bg-value);
+  background-image: url(../../../../../../@bg-value);
 }
 @media (max-width: 991px) {
   .image-wrapper {
@@ -9353,7 +9353,7 @@ background-color: @bgColor;
   background-color: @bg-value;
 }
 & when (@bg-type = 'image') {
-  background-image: url(../../../@bg-value);
+  background-image: url(../../../../../../@bg-value);
 }
 @media (max-width: 991px) {
   .image-wrapper {
@@ -9436,7 +9436,7 @@ background-color: @bgColor;
   background-color: @bg-value;
 }
 & when (@bg-type = 'image') {
-  background-image: url(../../../@bg-value);
+  background-image: url(../../../../../../@bg-value);
 }
 @media (max-width: 991px) {
   .image-wrapper {
@@ -9482,7 +9482,7 @@ padding-bottom: (@paddingBottom * 1rem);
   background-color: @bg-value;
 }
 & when (@bg-type = 'image') {
-  background-image: url(../../../@bg-value);
+  background-image: url(../../../../../../@bg-value);
   & when (@overlay) {
     .mbr-overlay {
       background: @overlayColor;
@@ -9604,7 +9604,7 @@ img, .item-img {
   background-color: @bg-value;
 }
 & when (@bg-type = "image") {
-  background-image: url(../../../@bg-value);
+  background-image: url(../../../../../../@bg-value);
 }
 .card-wrapper {
   background: @wrapBgColor;
@@ -9666,7 +9666,7 @@ padding-bottom: (@paddingBottom * 1rem);
   background-color: @bg-value;
 }
 & when (@bg-type = 'image') {
-  background-image: url(../../../@bg-value);
+  background-image: url(../../../../../../@bg-value);
 }
 .video-wrapper iframe {
   width: 100%;
@@ -9711,7 +9711,7 @@ background-color: @bgColor;
   padding-bottom: (@paddingBottom * 1rem);
 }
 & when (@bg-type = 'image') {
-  background-image: url(../../../@bg-value);
+  background-image: url(../../../../../../@bg-value);
 }
 & when (@bg-type = 'color') {
   background-color: @bg-value;
@@ -9769,7 +9769,7 @@ background-color: @bgColor;
   background-color: @bg-value;
 }
 & when (@bg-type = 'image') {
-  background-image: url(../../../@bg-value);
+  background-image: url(../../../../../../@bg-value);
 }
 .mbr-section-subtitle {
   text-align: left;
@@ -9800,7 +9800,7 @@ background-color: @bgColor;
   padding-bottom: (@paddingBottom * 1rem);
 }
 & when (@bg-type = 'image') {
-  background-image: url(../../../@bg-value);
+  background-image: url(../../../../../../@bg-value);
 }
 & when (@bg-type = 'color') {
   background-color: @bg-value;
@@ -9854,7 +9854,7 @@ background-color: @bgColor;
   padding-bottom: (@paddingBottom * 1rem);
 }
 & when (@bg-type = 'image') {
-  background-image: url(../../../@bg-value);
+  background-image: url(../../../../../../@bg-value);
 }
 & when (@bg-type = 'color') {
   background-color: @bg-value;
@@ -9892,7 +9892,7 @@ background-color: @bgColor;
   background-color: @bg-value;
 }
 & when (@bg-type = 'image') {
-  background-image: url(../../../@bg-value);
+  background-image: url(../../../../../../@bg-value);
 }
 .mbr-section-subtitle {
   text-align: left;
@@ -9947,7 +9947,7 @@ background-color: @bgColor;
   background-color: @bg-value;
 }
 & when (@bg-type = 'image') {
-  background-image: url(../../../@bg-value);
+  background-image: url(../../../../../../@bg-value);
 }
 @media (max-width: 991px) {
   .image-wrapper {
@@ -10010,7 +10010,7 @@ background-color: @bgColor;
   background-color: @bg-value;
 }
 & when (@bg-type = 'image') {
-  background-image: url(../../../@bg-value);
+  background-image: url(../../../../../../@bg-value);
 }
 @media (max-width: 991px) {
   .image-wrapper {
@@ -10065,7 +10065,7 @@ background-color: @bgColor;
   background-color: @bg-value;
 }
 & when (@bg-type = 'image') {
-  background-image: url(../../../@bg-value);
+  background-image: url(../../../../../../@bg-value);
 }
 @media (max-width: 991px) {
   .image-wrapper {
@@ -10148,7 +10148,7 @@ background-color: @bgColor;
   background-color: @bg-value;
 }
 & when (@bg-type = 'image') {
-  background-image: url(../../../@bg-value);
+  background-image: url(../../../../../../@bg-value);
 }
 @media (max-width: 991px) {
   .image-wrapper {
@@ -10194,7 +10194,7 @@ padding-bottom: (@paddingBottom * 1rem);
   background-color: @bg-value;
 }
 & when (@bg-type = 'image') {
-  background-image: url(../../../@bg-value);
+  background-image: url(../../../../../../@bg-value);
   & when (@overlay) {
     .mbr-overlay {
       background: @overlayColor;
@@ -10318,7 +10318,7 @@ padding-bottom: (@paddingBottom * 1rem);
   background-color: @bg-value;
 }
 & when (@bg-type = 'image') {
-  background-image: url(../../../@bg-value);
+  background-image: url(../../../../../../@bg-value);
   & when (@overlay) {
     .mbr-overlay {
       background: @overlayColor;
@@ -10435,7 +10435,7 @@ img, .item-img {
   padding-bottom: (@paddingBottom * 1rem);
 }
 & when (@bg-type = 'image') {
-  background-image: url(../../../@bg-value);
+  background-image: url(../../../../../../@bg-value);
 }
 & when (@bg-type = 'color') {
   background-color: @bg-value;
@@ -10466,7 +10466,7 @@ img, .item-img {
 padding-top: (@paddingTop * 1rem);
 padding-bottom: (@paddingBottom * 1rem);
 & when (@bg-type = 'image') {
-  background-image: url(../../../@bg-value);
+  background-image: url(../../../../../../@bg-value);
 }
 & when (@bg-type = 'color') {
   background-color: @bg-value;
